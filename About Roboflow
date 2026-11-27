@@ -1,0 +1,4 @@
+Roboflow 2.0 Object Detection (Fast) by Roboflow simplifies model
+training and deployment via Google Cloud AutoML, with automatic epoch
+and batch size selection [13]. Training halts upon reaching an overfitting
+point, reducing errors, but specific algorithm details are proprietary.

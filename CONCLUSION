@@ -1,0 +1,10 @@
+In conclusion, our study applied YOLOv8n and YOLOv8s models to a
+custom dataset for detecting objects on a solar panel. We deliberately chose
+a non-industrial solar panel, creating realistic conditions with dry leaves,
+sand, and bird droppings. Video footage, captured using an iPhone with 4K
+resolution at 23.99 frames per second, was processed using OpenCV. We
+annotated frames and applied YOLO models for effective object detection.
+The results shows that yolov8s has an accuracy of87.5% and the yolo8n has
+an accuracy of 97.1%. This shows that the yolov8n has performed better
+than the yolov8s and is suitable for object detection over the surface of solar
+panel.

@@ -1,0 +1,31 @@
+Object detection has gained substantial popularity in recent times due to its
+versatile applications. Its utilization spans across multiple domains, such as
+enhancing security measures, enabling the functionality of self-driving cars,
+monitoring transportation activities, analyzing drone footage, and
+facilitating visual perception for robots [1].Recent technological
+breakthroughs, particularly in advancing deep convolutional neural
+networks (CNNs) and harnessing the impressive computational capabilities
+of GPUs, have played a crucial role in advancing object detection. This
+
+progress has found diverse applications in security, military, transportation,
+medical, and everyday life fields. These innovations have not only exerted a
+significant influence on but have also substantially elevated the
+effectiveness of object detection methodologies.
+This research delves into the application of YOLO (You Only Look Once)
+for detecting a range of objects, both small and large, on the surfaces of
+solar panels. Solar panels are recognized as a leading source of renewable
+energy in the modern world, presenting a clean and efficient energy
+solution. Nevertheless, a noteworthy challenge arises when the efficiency of
+these panels decreases due to the accumulation of objects like dust particles,
+sand, bird droppings, and even larger debris such as leaves on their top
+surfaces. The efficiency of the solar panel experiences a reduction of 0.4%
+with the deposition of 1 g/m 2 of dust on its surface, and a decrease of 0.15%
+is observed for a dust deposition of 0.1 g/m 2 [2].
+Our primary objective is to meticulously train, test, and validate diverse
+methodologies, ensuring their effectiveness in accurately identifying
+specific objects present on the solar panel&#39;s surface. In practical terms, the
+significance of this study extends to real-world scenarios: when seamlessly
+integrated with IoT robots, the identified objects can be systematically
+addressed for cleaning. This process aims to enhance the overall efficiency
+and performance of solar panels, contributing to the sustainable utilization
+of solar energy.

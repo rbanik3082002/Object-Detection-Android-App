@@ -1,0 +1,9 @@
+Yolov8, a versatile model, excels in computer vision tasks, especially object
+detection. It enhances the yolov5 model with a new network structure while
+preserving the strengths of previous YOLO series algorithms. Building on
+the anchor-free mechanism and integrating a Decoupled Head design
+inspired by YOLOX, Yolov8 achieves a 1% boost in detection accuracy.
+This innovative approach allows specialized branches for specific prediction
+tasks, enhancing overall performance. Yolov8&#39;s loss function, featuring
+components like Distribution Focal Loss and CIoU loss, ensures accurate
+object detection and localization

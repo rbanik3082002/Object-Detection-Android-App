@@ -1,0 +1,6 @@
+This section provides insights into the training process for each individual
+model. The training was conducted using Google Colab on a MacBook M2,
+featuring a powerful 8-core CPU. The MacBook M2 is equipped with a
+GPU boasting up to 10 cores, providing enhanced processing capabilities.
+Additionally, the system incorporates up to 24GB of unified memory,
+ensuring efficient handling of the training workload.

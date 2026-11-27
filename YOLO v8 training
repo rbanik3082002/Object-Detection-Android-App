@@ -1,0 +1,8 @@
+Yolov8s, designed for efficient identification of micro-objects [14], features
+a foundational network balancing speed and accuracy. With a streamlined
+design, the model was trained using a batch size of 16 over 100 epochs and
+a learning rate of 0.01. The dataset, totalling 500 images, was thoughtfully
+divided, allocating 75% for training, 20% for validation, and the rest for
+testing. Remarkably, the entire 100 epochs completed in just 0.647 hours,
+emphasizing the swift convergence and robust computational capabilities of
+the Yolov8s architecture.
